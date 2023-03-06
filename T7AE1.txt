@@ -110,3 +110,11 @@ c. /22
 d. /24
 
 Respuesta: a. /19
+
+#15. Cuáles de las siguientes máscaras de red equivale a: /24
+a. 255.0.0.0
+b. 224.0.0.0
+c. 255.255.0.0
+d. 255.255.255.0
+
+Respuesta: d. 255.255.255.0.
