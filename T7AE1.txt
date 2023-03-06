@@ -81,3 +81,12 @@ c. 255.240.0.0
 d. 255.255.255.0
 
 Respuesta: c. 255.240.0.0
+
+#12 . A partir de la dirección IP 172.18.71.2 /21 , ¿cuál es la dirección de subred y
+de broadcast a la que pertenece el host?
+a. dirección = 172.18.64.0, broadcast 172.18.80.255
+b. dirección = 172.18.32.0, broadcast 172.18.71.255
+c. dirección = 172.18.32.0, broadcast 172.18.80.255
+d. dirección = 172.18.64.0, broadcast 172.18.71.255
+
+Respuesta: a. dirección = 172.18.64.0, broadcast 172.18.80.255
