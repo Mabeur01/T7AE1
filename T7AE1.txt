@@ -71,3 +71,13 @@ d. 126 subredes con 1022 hosts
 e. Ninguna de las respuestas es correcta.
 
 Respuesta: e. Ninguna de las respuestas es correcta.
+
+#10. Usted está designando un direccionamiento IP para cuatro subredes con la red
+10.1.1.0, se prevé un crecimiento de una red por año en los próximos cuatro años.
+¿Cuál será la máscara que permita la mayor cantidad de host?
+a. 255.0.0.0
+b. 255.254.0.0
+c. 255.240.0.0
+d. 255.255.255.0
+
+Respuesta: c. 255.240.0.0
