@@ -52,3 +52,12 @@ e. 10011111.01001011.00111111.00101011
 Respuestas: a. 10011001.01111000.01101101.11111000
 c. 10111001.11001000.00110111.01001100
 d. 11011001.01001010.01101001.00110011
+
+#8. Se tiene una dirección IP 172.17.111.0 máscara 255.255.254.0, ¿cuantas
+subredes y cuantos host validos habrá por subred?
+a. 126 subredes con 512 hosts
+b. 128 subredes con 510 hosts
+c. 126 subredes con 510 hosts
+d. 126 subredes con 1022 hosts
+
+Respuesta: b. 128 subredes con 510 hostss
