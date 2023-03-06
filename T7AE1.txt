@@ -9,3 +9,14 @@ D. 255.255.254.0
 E. 255.255.255.0
 
 Respuesta: B. 255.255.248.0
+
+#2 . Usted planea la migración de 100 ordenadores de IPX/SPX a TCP/IP y que
+puedan establecer conectividad con Internet. Su ISP le ha asignado la dirección IP
+192.168.16.0/24. Se requieren 10 Subredes con 10 hosts cada una. ¿Qué máscara
+de subred debe utilizarse?
+A. 255.255.255.224
+B. 255.255.255.192
+C. 255.255.255.240
+D. 255.255.255.248
+
+Respuesta: C. 255.255.255.240
