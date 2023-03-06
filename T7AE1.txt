@@ -32,3 +32,12 @@ F.255.255.252.0
 G.172.16.252.0
 
 Respuesta: C.255.255.248.0
+
+#5. ¿Cuáles de las siguientes subredes no pertenece a la misma red si se ha
+utilizado la máscara de subred 255.255.224.0?
+A.172.16.66.24
+B.172.16.65.33
+C.172.16.64.42
+D.172.16.63.51
+
+Respuesta: D. 172.16.63.51
